@@ -50,21 +50,29 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "FluentValidation": {
-              "target": "Package",
-              "version": "[12.1.1, )"
-            },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[11.9.0, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[14.0.0, )"
+              "version": "[12.2.0, )"
             },
-            "Microsoft.AspNetCore.Http": {
+            "Serilog.AspNetCore": {
               "target": "Package",
-              "version": "[2.3.9, )"
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Seq": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -79,6 +87,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

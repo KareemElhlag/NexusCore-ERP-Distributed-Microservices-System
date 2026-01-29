@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\NexusCore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\domian\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\domian\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\domian\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\domian\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\application\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\application\\abstractions\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\application\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\application\\abstractions\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\infrastructure\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\infrastructure\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|c:\\users\\hp\\source\\repos\\nexuscore\\sharedkernel.nexuscore\\application\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{210535B4-1114-4423-8752-513DB6A52E02}|SharedKernel.NexusCore\\SharedKernel.NexusCore.csproj|solutionrelative:sharedkernel.nexuscore\\application\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Domian\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Domian\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Domian\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\Domian\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:11:04.403Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -26,16 +63,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Domian\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Domian\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Domian\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\Domian\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T18:11:28.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\DependencyInjection.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:47:36.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Infrastructure\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Infrastructure\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Infrastructure\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\Infrastructure\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:17:03.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\IQuery.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Application\\Abstractions\\IQuery.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\IQuery.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\Application\\Abstractions\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:11:35.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\ICommand.cs",
+              "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Application\\Abstractions\\ICommand.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\ICommand.cs",
+              "RelativeToolTip": "SharedKernel.NexusCore\\Application\\Abstractions\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T17:08:53.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\Result.cs",
               "RelativeDocumentMoniker": "SharedKernel.NexusCore\\Application\\Abstractions\\Result.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\NexusCore\\SharedKernel.NexusCore\\Application\\Abstractions\\Result.cs",
               "RelativeToolTip": "SharedKernel.NexusCore\\Application\\Abstractions\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T18:11:24.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-24T18:11:24.136Z"
             }
           ]
         },

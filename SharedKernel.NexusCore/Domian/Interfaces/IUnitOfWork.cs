@@ -6,22 +6,17 @@
 public interface IUnitOfWork : IDisposable
 {
     /// <summary>
-    /// Persists all tracked changes to the database.
-    /// </summary>
-    Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
-
-    /// <summary>
     /// Starts a new database transaction.
     /// </summary>
-    Task BeginTransactionAsync();
+    Task BeginTransactionAsync( CancellationToken ct= default);
 
     /// <summary>
     /// Commits the current transaction to the database.
     /// </summary>
-    Task CommitTransactionAsync();
+    Task CommitTransactionAsync(CancellationToken ct = default);
 
     /// <summary>
     /// Discards all changes made during the current transaction.
     /// </summary>
-    Task RollbackTransactionAsync();
+    Task RollbackTransactionAsync(CancellationToken ct = default);
 }
